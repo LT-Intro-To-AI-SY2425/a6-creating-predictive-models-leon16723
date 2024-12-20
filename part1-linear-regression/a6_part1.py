@@ -12,7 +12,7 @@ x = x.reshape(-1,1)
 
 # Create the model
 
-# Find the coefficient, bias, and r squared values. 
+# Fin the coefficient, bias, and r squared values. 
 # Each should be a float and rounded to two decimal places. 
 
 
