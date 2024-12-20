@@ -11,4 +11,4 @@ It is very acurtate it is around 88%, this is acurate enough for this case becau
 3. Looking at the predicted and actual results, how did the model do? Was there a pattern to the inputs that the model was incorrect about?
 The model did very well in most casses, what i noticed is that if there was major discrpencys between for example the wages and and then other data points it was more likely to get it wrong.
 4. Would a 34 year old Female who makes 56000 a year buy an SUV according to the model? Remember to scale the data before running it through the model.
-
+No they would. not get a suv 
